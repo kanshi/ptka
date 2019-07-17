@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Miło nam Państwa powitać na stronie internetowej Kancelarii'
+landing-title: 'Witamy w naszej Kancelarii'
 description: null
 image: null
 author: null
