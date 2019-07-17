@@ -20,13 +20,13 @@ nav-menu: true
 	Specjalizujemy się w prawie rodzinnym, cywilnym, gospodarczym i karnym. Posiadamy bogate doświadczenie w zakresie obsługi podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, prawa kontraktów, w szczególności w analizie, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsługi działalności gospodarczej. 
 </p>
 <div class="row">
-	<div class="6u 12u$(small)">
+	<div class="4u 12u$(small)">
 		<h3>Prowadzenie spraw sądowych</h3>
 		<p>Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
 		<p> Zajmujemy się również sporządzaniem pism urzędowych, procesowych, wszelkiego rodzaju wniosków, odwołań, skarg, czy porozumień.</p>
 		<p>Zapewniamy również zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi.</p>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="8u$ 12u$(small)">
 		<h3>Wsparcie dla firm</h3>
 		<p>Negocjujemy oraz reprezentujemy Klienta w trakcie negocjacji, wobec wierzycieli, dłużników, banków, pracowników, organów założycielskich.</p>
 		<p>Prowadzimy postępowania zabezpieczające, egzekucyjne, polubowne, mediacyjne.</p>
