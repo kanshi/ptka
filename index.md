@@ -1,11 +1,12 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Miło nam Państwa powitać na stronie internetowej Kancelarii'
 description: null
 image: null
 author: null
 show_tile: false
 ---
+Specjalizujemy się w sprawa rodzinnych (postępowania rozwodowe, dotyczące władzy rodzicielskiej, alimentów, uregulowania kontaktów). Zapewniamy także kompleksową pomoc psychologów, detektywów, doradców podatkowych.
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Nasza oferta m. in. pomoc z zakresu prawa cywilnego, gospodarczego i karnego Doradzamy zarówno klientom indywidualnym jak i do przedsiębiorców, instytucji samorządowych i publicznych. 
