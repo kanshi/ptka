@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Zespół adwokatów
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'adwokat Karolina Tuchołka<br/>adwokat Marcin Potok'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
