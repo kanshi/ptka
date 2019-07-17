@@ -6,7 +6,7 @@ image: assets/images/knowledge.jpg
 showimage: false
 nav-menu: true
 ---
-<h1>Informacje na stronie Kancelarii</h1>
+<h2>Informacje na stronie Kancelarii</h2>
 <p><span class="image right"><img src="assets/images/knowledge.jpg" alt="" /></span>Informacje zaprezentowane w serwisie są dostarczone w zastanej przez Ciebie formie, bez żadnych gwarancji, wyrażonych jednoznacznie bądź implikowanych.</p>
 <p>Administrator dołoży wszelkich starań, by materiał zawarty w serwisie był aktualny i kompletny, jednak może on zawierać błędy i niedokładności.</p>
 <p>W żadnym przypadku Administrator nie bierze odpowiedzialności za jakiejkolwiek bezpośrednie i pośrednie straty wynikające z korzystania z serwisu, a także nie odpowiada za jakiekolwiek uszkodzenia lub wirusy, które mogą zainfekować Twój sprzęt podczas korzystania z serwisu, a w szczególności w związku z pobieraniem z niego jakichkolwiek materiałów, plików, materiałów tekstowych, zdjęciowych, graficznych, dźwiękowych i filmowych.</p>
