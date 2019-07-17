@@ -1,17 +1,19 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: Potok Tuchołka
+subtitle: Kancelaria Adwokacka
+email: info@potok-tucholka.pl
+description: Kompleksowa pomoc i reprezentacja prawna.<br/>Cechuje nas rzetelność, dokładność, skuteczność oraz wysoka kultura pracy.
+baseurl: "/ptka/" # the subpath of your site, e.g. /blog
+url: "https://kanshi.github.io" # the base hostname & protocol for your site
+author: Y Experiment
+street_address: ul. Bolesława Prusa 16A/11
+city: Poznań
+state: Wielkopolska
+zip_code: 60-819
+country: 
+phone: +48 61 22 14 708
+fax: +48 61 22 14 709
+mobile: +48 602 738 124
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,13 +23,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
