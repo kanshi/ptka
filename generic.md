@@ -3,6 +3,7 @@ layout: post
 title: Nota prawna
 description: Ważne informacje prawne
 image: assets/images/knowledge.jpg
+showimage: false
 nav-menu: true
 ---
 <h1>Informacje na stronie Kancelarii</h1>
