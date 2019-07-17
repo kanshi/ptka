@@ -29,7 +29,8 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Wsparcie dla firm</h3>
 		<p>Negocjujemy oraz reprezentujemy Klienta w trakcie negocjacji, wobec wierzycieli, dłużników, banków, pracowników, organów założycielskich.</p>
-		<p>Prowadzimy postępowania zabezpieczające, egzekucyjne, polubowne, mediacyjne. Przygotowujemy i przeprowadzamy procedury zakładania i rejestracji spółek prawa handlowego, wraz z przygotowywaniem dokumentów wewnętrznych spółek wraz z nadaniem tzw. rygoru korporacyjnego.</p>
+		<p>Prowadzimy postępowania zabezpieczające, egzekucyjne, polubowne, mediacyjne.</p>
+		<p>Przygotowujemy i przeprowadzamy procedury zakładania i rejestracji spółek prawa handlowego, wraz z przygotowywaniem dokumentów wewnętrznych spółek wraz z nadaniem tzw. rygoru korporacyjnego.</p>
 		<p>Przygotowujemy i przeprowadzanie procedury przekształcania podmiotów, likwidacji podmiotów, a także procedury zakładania i rejestracji fundacji, stowarzyszeń.</p>
 	</div>
 </div>
