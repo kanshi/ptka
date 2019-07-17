@@ -12,8 +12,6 @@ state: Wielkopolska
 zip_code: 60-819
 country: 
 phone: +48 61 22 14 708
-fax: +48 61 22 14 709
-mobile: +48 602 738 124
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
