@@ -1,38 +1,40 @@
 <!-- Contact -->
 <section id="contact">
-	<div class="row">
-		<div class="4u 12u$(medium)">				
-			<div class="contact-method">
-				<span class="icon alt fa-envelope"></span>
-				<h3>Email</h3>
-				<a href="#">{{ site.email }}</a>
+	<div class="inner">
+		<div class="row">
+			<div class="4u 12u$(medium)">				
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<a href="#">{{ site.email }}</a>
+				</div>
 			</div>
-		</div>
-		<div class="3u 12u$(medium)">
-			<div class="contact-method">
-				<span class="icon alt fa-phone"></span>
-				<h3>Phone</h3>
-				<span>{{ site.phone }}</span>
+			<div class="3u 12u$(medium)">
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<span>{{ site.phone }}</span>
+				</div>
 			</div>
-		</div>
-		<div class="5u$ 12u$(medium)">
-			<div class="contact-method">
-				<span class="icon alt fa-home"></span>
-				<h3>Adres kancelarii</h3>
-				<span>
-				{% if site.street_address %}
-				    {{ site.street_address }}<br />
-				{% endif %}
-				{% if site.city %}
-				    {{ site.city }},
-				{% endif %}
-				{% if site.state %}
-				    {{ site.state }} 
-				{% endif %}
-				{% if site.zip_code %}
-				    {{ site.zip_code }}<br />
-				{% endif %}
-				</span>
+			<div class="5u$ 12u$(medium)">
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Adres kancelarii</h3>
+					<span>
+					{% if site.street_address %}
+					    {{ site.street_address }}<br />
+					{% endif %}
+					{% if site.city %}
+					    {{ site.city }},
+					{% endif %}
+					{% if site.state %}
+					    {{ site.state }} 
+					{% endif %}
+					{% if site.zip_code %}
+					    {{ site.zip_code }}<br />
+					{% endif %}
+					</span>
+				</div>
 			</div>
 		</div>
 	</div>
