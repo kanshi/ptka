@@ -2,7 +2,7 @@
 layout: page
 title: Usługi
 subtitle: Kancelarie Adwokackie
-image: grzejnik.jpg
+image: assets/images/grzejnik.jpg
 nav-menu: true
 ---
 
