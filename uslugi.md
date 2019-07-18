@@ -2,6 +2,7 @@
 layout: page
 title: Usługi
 subtitle: 'Kancelarie Adwokackie'
+description: 'Specjalizujemy się w prawie rodzinnym, cywilnym, gospodarczym i karnym.'
 image: assets/images/docs_old.jpg
 nav-menu: true
 ---
