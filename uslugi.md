@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Usługi
-subtitle: Kancelarie Adwokackie
+subtitle: 'Kancelarie Adwokackie'
 image: assets/images/docs_old.jpg
 nav-menu: true
 ---
