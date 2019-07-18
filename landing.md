@@ -1,7 +1,7 @@
 ---
 title: Zespół adwokatów
 layout: landing
-description: 'adwokat Karolina Tuchołka<br/>adwokat Marcin Potok'
+description: 'adwokat Marcin Potok<br/>adwokat Karolina Tuchołka'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
