@@ -1,7 +1,7 @@
 # site settings
 title: Potok Tuchołka
 subtitle: Kancelarie Adwokackie
-description: Cechuje nas rzetelność, dokładność, skuteczność oraz wysoka kultura pracy. Reprezentujemy klientów indywidualnych, przedsiębiorców, firmy, instytucje samorządowe i publiczne.
+description: Cechuje nas rzetelność, skuteczność oraz wysoka kultura pracy. Reprezentujemy klientów indywidualnych, firmy oraz instytucje.
 baseurl: "/ptka/" # the subpath of your site, e.g. /blog
 url: "https://kanshi.github.io" # the base hostname & protocol for your site
 
