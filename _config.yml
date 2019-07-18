@@ -1,7 +1,7 @@
 # site settings
 title: Potok Tuchołka
 subtitle: Kancelarie Adwokackie
-email: info@potok-tucholka.pl
+email: info@ptka.pl
 description: Kompleksowa pomoc i reprezentacja prawna.<br/>Cechuje nas rzetelność, dokładność, skuteczność oraz wysoka kultura pracy.
 baseurl: "/ptka/" # the subpath of your site, e.g. /blog
 url: "https://kanshi.github.io" # the base hostname & protocol for your site
@@ -10,7 +10,7 @@ street_address: ul. Bolesława Prusa 16A/11
 city: Poznań
 state: Wielkopolska
 zip_code: 60-819
-country: 
+country: Poland
 phone: +48 61 22 14 708
 
 # homepage tiles
