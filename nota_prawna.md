@@ -15,7 +15,7 @@ nav-menu: true
 <p>Informacje publikowane na stronach www mają charakter wyłącznie informacyjny.</p>
 <p>Informacje zaprezentowane w serwisie są dostarczone w zastanej przez Ciebie formie, bez żadnych gwarancji, wyrażonych jednoznacznie bądź implikowanych.</p>
 
-<p><span class="image left"><img src="assets/images/note.jpg" alt="" /></span>Wszelkie informacje, ilustracje zawarte na stronach serwisu internetowego Administratora opracowane zostały na podstawie najbardziej aktualnych informacji dostępnych w momencie publikacji.</p>
+<p><span class="image left"><img src="assets/images/karo_oksy.jpg" alt="" /></span>Wszelkie informacje, ilustracje zawarte na stronach serwisu internetowego Administratora opracowane zostały na podstawie najbardziej aktualnych informacji dostępnych w momencie publikacji.</p>
 <p>Administrator zastrzega sobie prawo do modyfikowania zawartości serwisu w każdym momencie, bez konieczności powiadomienia o tym fakcie użytkowników.</p>
 <p>Wszystko co jest własnością Administratora, może być wykorzystane tylko zgodnie z ich przeznaczeniem; zabrania się ich kopiowania przetwarzania nie zgodnego z prawem oraz nielegalnego rozpowszechniania i modyfikowania zawartości strony Administratora na innych stronach internetowych.</p>
 
