@@ -2,7 +2,7 @@
 title: 'Zespół adwokatów'
 layout: landing
 subtitle: 'Kancelarie Adwokackie'
-description: 'adwokat Marcin Potok<br/>adwokat Karolina Tuchołka'
+description: '<p>adwokat Marcin Potok</p><p>adwokat Karolina Tuchołka</p>'
 image: assets/images/karo_drzwi.jpg
 nav-menu: true
 ---
