@@ -17,8 +17,6 @@ Prezentowane na tej stronie informacje mogą być wykorzystane tylko zgodnie z i
 <span class="image left"><img src="assets/images/karo_oksy.jpg" alt="" /></span>
 Administrator nie bierze odpowiedzialności za bezpośrednie i pośrednie straty wynikające z korzystania z serwisu, a także nie odpowiada za jakiekolwiek uszkodzenia lub wirusy, które mogą zainfekować Twój sprzęt podczas korzystania z serwisu. W szczególności w związku z pobieraniem z niego jakichkolwiek materiałów, plików, materiałów tekstowych, zdjęciowych, graficznych, dźwiękowych lub filmowych.
 
-Wszelkie informacje, ilustracje zawarte na stronach serwisu internetowego Administratora opracowane zostały na podstawie najbardziej aktualnych informacji dostępnych w momencie publikacji.
-
 Administrator zastrzega możliwość modyfikacji powyższych informacji w dowolnym momencie poprzez aktualizacje zawartości tej strony, bez konieczności powiadomienia o tym fakcie użytkowników. Zmiany te są wiążące dla użytkowników w momencie ich opublikowania.
 
 Administrator: adwokat Marcin Potok
