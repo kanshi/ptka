@@ -2,7 +2,7 @@
 layout: home
 title: 'Strona główna'
 subtitle: 'Kancelarie Adwokackie'
-landing-title: 'Witamy w naszej Kancelarii'
+landing-title: Kompleksowa pomoc i reprezentacja prawna
 description: null
 image: null
 author: null
