@@ -1,32 +1,13 @@
 # site settings
 title: Potok Tuchołka
 subtitle: Kancelarie Adwokackie
-email: '<a href="mailto:marcin.potok@ptka.pl">marcin.potok@ptka.pl</a><br/><a href="mailto:karolina.tucholka@ptka.pl">karolina.tucholka@ptka.pl</a>'
 description: Kompleksowa pomoc i reprezentacja prawna.</p><p>CECHUJE NAS RZETELNOŚĆ, DOKŁADNOŚĆ, SKUTECZNOŚĆ ORAZ WYSOKA KULTURA PRACY.</p>
 baseurl: "/ptka/" # the subpath of your site, e.g. /blog
 url: "https://kanshi.github.io" # the base hostname & protocol for your site
-author: Y Experiment
-street_address: ul. Bolesława Prusa 16A/11
-city: Poznań
-state: Wielkopolska
-zip_code: 60-819
-phone: +48 61 22 14 708
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
-
-# social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
-pinterest_url:
-slack_url:
-twitter_url: 
 
 # build settings
 markdown: kramdown
