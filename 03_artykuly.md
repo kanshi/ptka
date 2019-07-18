@@ -5,7 +5,7 @@ subtitle: 'Kancelarie Adwokackie'
 landing-title: 'Artykuły'
 nav-menu: true
 description: null
-image: null
+image: assets/images/kawa_oksy.jpg
 author: null
 show_tile: true
 ---
