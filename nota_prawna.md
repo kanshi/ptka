@@ -2,7 +2,7 @@
 layout: post
 title: Nota prawna
 description: Ważne informacje prawne
-image: assets/images/knowledge.jpg
+image: assets/images/sejfik.jpg
 showimage: false
 nav-menu: true
 ---
