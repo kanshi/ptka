@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Home
+title: 'Strona główna'
+subtitle: 'Kancelarie Adwokackie'
 landing-title: 'Witamy w naszej Kancelarii'
 description: null
 image: null
