@@ -1,7 +1,8 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Artykuły
+subtitle: 'Kancelarie Adwokackie'
+landing-title: 'Artykuły'
 nav-menu: true
 description: null
 image: null
