@@ -1,5 +1,6 @@
 ---
 title: Zespół adwokatów
+subtitle: Kancelarie Adwokackie
 layout: landing
 description: 'adwokat Marcin Potok<br/>adwokat Karolina Tuchołka'
 image: assets/images/kawa_oksy.jpg
