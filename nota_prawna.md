@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nota prawna
+subtitle: Kancelarie Adwokackie
 description: Ważne informacje prawne
 image: assets/images/sejfik.jpg
 showimage: false
