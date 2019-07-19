@@ -20,7 +20,8 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Wybrane usługi Kancelarii Adwokackiej</h2>
 <p>
-	Specjalizujemy się w prawie rodzinnym, cywilnym, gospodarczym i karnym. Posiadamy bogate doświadczenie w zakresie obsługi podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, prawa kontraktów, w szczególności w analizie, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsługi działalności gospodarczej. 
+<span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>
+Specjalizujemy się w prawie rodzinnym, cywilnym, gospodarczym i karnym. Posiadamy bogate doświadczenie w zakresie obsługi podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, prawa kontraktów, w szczególności w analizie, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsługi działalności gospodarczej. 
 </p>
 <div class="row">
 	<div class="5u 12u$(small)">
