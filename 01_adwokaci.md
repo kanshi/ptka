@@ -13,9 +13,10 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major"><h2>Doświadczenie z sali sądowej</h2></header>
-		<p>lorem ipsum</p>
-		<ul class="actions"><li><a href="#contact.html" class="button next scrolly">Kontakt</a></li></ul>
+		<header class="major">
+			<h2>Zaufaj doświadczeniu</h2>
+		</header>
+		<p>Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
 	</div>
 </section>
 
@@ -51,17 +52,5 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Zaufaj doświadczeniu</h2>
-		</header>
-		<p>Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
-		<ul class="actions">
-			<li><a href="02_uslugi_adwokackie.html" class="button next">Usługi adwokackie</a></li>
-		</ul>
-	</div>
 </section>
 </div>
