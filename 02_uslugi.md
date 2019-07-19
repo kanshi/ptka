@@ -18,7 +18,6 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>
 <span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego. 
 	
 
@@ -29,7 +28,8 @@ Posiadamy również bogate doświadczenie w zakresie obsługi podmiotów prowadz
 
 
 Negocjujemy oraz reprezentujemy Klienta w trakcie negocjacji, wobec wierzycieli, dłużników, banków, pracowników, organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne, mediacyjne.
-</p>
+
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Prawo rodzinne</h3>
