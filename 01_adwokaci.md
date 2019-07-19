@@ -32,7 +32,7 @@ nav-menu: true
 					<h3>adwokat Marcin Potok</h3>
 				</header>
 				<p>Posiadam bogate doświadczenie w zakresie obsługi firm, w tym klientów korporacyjnych w szczególności w sporządzaniu i negocjacji umów oraz bieżącej obsługi. Od 2002 roku przez 7 lat kierowałem działem prawnym polskich spółek światowego potentata w dziedzinie budowy dróg i mostów francuskiej spółki COLAS S.A. Biegle władam językiem angielskim. </p>
-				<ul class="actions"><li><a href="mailto:marcin.potok@ptka.pl" class="button">Email: marcin.potok@ptka.pl</a></li></ul>
+				<ul class="actions"><li><a href="mailto:marcin.potok@ptka.pl" class="button">marcin.potok@ptka.pl</a></li></ul>
 			</div>
 		</div>
 	</section>
@@ -47,7 +47,7 @@ nav-menu: true
 				</header>
 				<p>Posiadam wieloletnie doświadczenie w zakresie prawa cywilnego i rodzinnego. Prowadzę powierzone mi sprawy ze szczególną uwagą i taktem. Od 2015 roku doradzam spółkom z kapitałem międzynarodowym oraz firmom technologicznym typu startup. Biegle władam językami: hiszpańskim i angielskim.</p>
 				<ul class="actions">
-					<li><a href="mailto:karolina.tucholka@ptka.pl" class="button">Email: karolina.tucholka@ptka.pl</a></li>
+					<li><a href="mailto:karolina.tucholka@ptka.pl" class="button">karolina.tucholka@ptka.pl</a></li>
 				</ul>
 			</div>
 		</div>
