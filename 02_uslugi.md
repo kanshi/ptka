@@ -28,15 +28,15 @@ nav-menu: true
 <hr class="major" />
 
 <div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Prawo rodzinne</h3>
-		<p>Nasi klienci cenią nas za szczerość i skuteczność w rozwiązywaniu najdelikatniejszych problemów prawnych.</p>
-		<p>Od wielu lat reprezentujemy klientów przed sądami powszechnymi w sprawach alimentacyjnych, o rozwód, o władzę rodzicielską, regulację kontaktów i innych.</p>
-	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Prawo cywilne</h3>
 		<p>Do złożonych spraw cywilnych podchodzimy z elastycznością i często wskazujemy klientom dodatkowe możliwości prawne.</p>
 		<p>Prawo cywilne jest dominującym polem praktyki kancelarii. W trakcie długoletniej praktyki napotykaliśmy wiele unikalnych wyzwań prawnych z zakresu podziału majątku, działu spadku, zachowku, ochrony dóbr osobistych czy roszczenia o odszkodowanie lub zadośćuczynienie.</p>
+	</div>
+	<div class="6u 12u$(small)">
+		<h3>Prawo rodzinne</h3>
+		<p>Nasi klienci cenią nas za szczerość i skuteczność w rozwiązywaniu najdelikatniejszych problemów prawnych.</p>
+		<p>Od wielu lat reprezentujemy klientów przed sądami powszechnymi w sprawach alimentacyjnych, o rozwód, o władzę rodzicielską, regulację kontaktów i innych.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u$ 12u$(medium)">
