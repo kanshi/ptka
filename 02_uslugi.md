@@ -36,8 +36,8 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Prawo cywilne</h3>
-		<p></p>
-		<p></p>
+		<p>Do złożonych spraw cywilnych podchodzimy z elastycznością i często wskazujemy klientom dodatkowe możliwości prawne.</p>
+		<p>Prawo cywilne jest dominującym polem praktyki kancelarii. W trakcie długoletniej praktyki napotykaliśmy wiele unikalnych wyzwań prawnych z zakresu podziału majątku, działu spadku, zachowku, ochrony dóbr osobistych czy roszczenia o odszkodowanie lub zadośćuczynienie.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Prawo gospodarcze</h3>
