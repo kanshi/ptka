@@ -19,14 +19,13 @@ nav-menu: true
 
 <!-- Content -->
 <p>
-<span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
-	
-<p>Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Zajmujemy się również sporządzaniem pism urzędowych, procesowych, wszelkiego rodzaju wniosków, odwołań, skarg, czy porozumień.</p>
+<span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego. Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi.</p>
 
-<p>Posiadamy również bogate doświadczenie w zakresie obsługi podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, prawa kontraktów, w szczególności w analizie, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsłudze działalności gospodarczej.</p>
+<p>Negocjujemy oraz reprezentujemy Klienta w trakcie negocjacji, wobec wierzycieli, dłużników, banków, pracowników, czy organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne i mediacyjne. Zajmujemy się również sporządzaniem pism urzędowych, procesowych, wszelkiego rodzaju wniosków, odwołań, skarg, czy porozumień.</p>
 
-<p>Negocjujemy oraz reprezentujemy Klienta w trakcie negocjacji, wobec wierzycieli, dłużników, banków, pracowników, czy organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne i mediacyjne.</p>
+<p>Posiadamy szerokie doświadczenie w zakresie obsługi podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, prawa kontraktów, w szczególności w analizie, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsłudze działalności gospodarczej.</p>
 
+<hr class="major" />
 
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -39,6 +38,7 @@ nav-menu: true
 		<p>Do złożonych spraw cywilnych podchodzimy z elastycznością i często wskazujemy klientom dodatkowe możliwości prawne.</p>
 		<p>Prawo cywilne jest dominującym polem praktyki kancelarii. W trakcie długoletniej praktyki napotykaliśmy wiele unikalnych wyzwań prawnych z zakresu podziału majątku, działu spadku, zachowku, ochrony dóbr osobistych czy roszczenia o odszkodowanie lub zadośćuczynienie.</p>
 	</div>
+	<!-- Break -->
 	<div class="4u$ 12u$(medium)">
 		<h3>Prawo gospodarcze</h3>
 		<p></p>
