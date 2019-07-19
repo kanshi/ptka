@@ -44,7 +44,7 @@ nav-menu: true
 				<header class="major">
 					<h3>adwokat Karolina Tuchołka</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Posiadam wieloletnie doświadczenie w zakresie prawa cywilnego i rodzinnego. Prowadzę powierzone mi sprawy ze szczególną uwagą i taktem. Od 2015 roku doradzam spółkom z kapitałem międzynarodowym oraz firmom technologicznym typu startup. Biegle władam językami: hiszpańskim i angielskim.</p>
 				<ul class="actions">
 					<li><a href="mailto:karolina.tucholka@ptka.pl" class="button">Email: karolina.tucholka@ptka.pl</a></li>
 				</ul>
