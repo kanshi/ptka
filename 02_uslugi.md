@@ -39,7 +39,7 @@ nav-menu: true
 		<p>Od wielu lat reprezentujemy klientów przed sądami powszechnymi w sprawach alimentacyjnych, o rozwód, o władzę rodzicielską, regulację kontaktów i innych.</p>
 	</div>
 	<!-- Break -->
-	<div class="4u$ 12u$(medium)">
+	<div class="4u 12u$(medium)">
 		<h3>Prawo gospodarcze</h3>
 		<p></p>
 		<p></p>
