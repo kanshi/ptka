@@ -22,10 +22,9 @@ nav-menu: true
 <span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
 
 <p>Negocjujemy oraz reprezentujemy Klienta wobec wierzycieli, dłużników, banków, pracowników, czy organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne i mediacyjne. Sporządzamy pisma urzędowe, procesowe, wszelkiego rodzaju wnioski, odwołania, skargi, czy porozumienia.</p>
-
-<p>
-<a href="#contact" class="button next scrolly">Kontakt</a>
-	</p>
+<ul class="actions">
+	<li><a href="#contact" class="button next scrolly">Kontakt</a></li>
+</ul>
 
 <hr class="major" />
 
