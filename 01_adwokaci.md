@@ -56,9 +56,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Doświadczenie w obsłudze firm</h2>
+			<h2>Zaufaj doświadczeniu</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
 		<ul class="actions">
 			<li><a href="02_uslugi_adwokackie.html" class="button next">Usługi adwokackie</a></li>
 		</ul>
