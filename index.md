@@ -11,4 +11,4 @@ show_tile: false
 
 Specjalizujemy się w sprawach rodzinnych (postępowania rozwodowe, władza rodzicielska, alimenty, uregulowanie kontaktów). Doradzamy klientom indywidualnym, przedsiębiorcom, firmom, oraz instytucjom samorządowym i publicznym. 
 
-Oferujemy szeroko pojętą pomoc z zakresu prawa cywilnego, gospodarczego i karnego. Zapewniamy także kompleksową pomoc psychologów, detektywów, oraz doradców podatkowych.
+Oferujemy szeroko pojętą pomoc z zakresu prawa cywilnego, gospodarczego i karnego. Zapewniamy kompleksową pomoc psychologów, detektywów, oraz doradców podatkowych.
