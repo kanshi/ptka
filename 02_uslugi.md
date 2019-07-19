@@ -18,16 +18,14 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego. 
+<p>
+<span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
 	
+<p>Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Zajmujemy się również sporządzaniem pism urzędowych, procesowych, wszelkiego rodzaju wniosków, odwołań, skarg, czy porozumień.</p>
 
-Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Zajmujemy się również sporządzaniem pism urzędowych, procesowych, wszelkiego rodzaju wniosków, odwołań, skarg, czy porozumień.
+<p>Posiadamy również bogate doświadczenie w zakresie obsługi podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, prawa kontraktów, w szczególności w analizie, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsługi działalności gospodarczej.</p>
 
-
-Posiadamy również bogate doświadczenie w zakresie obsługi podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, prawa kontraktów, w szczególności w analizie, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsługi działalności gospodarczej.
-
-
-Negocjujemy oraz reprezentujemy Klienta w trakcie negocjacji, wobec wierzycieli, dłużników, banków, pracowników, organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne, mediacyjne.
+<p>Negocjujemy oraz reprezentujemy Klienta w trakcie negocjacji, wobec wierzycieli, dłużników, banków, pracowników, organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne, mediacyjne.</p>
 
 
 <div class="row">
