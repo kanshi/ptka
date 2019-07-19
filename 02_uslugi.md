@@ -23,6 +23,10 @@ nav-menu: true
 
 <p>Negocjujemy oraz reprezentujemy Klienta wobec wierzycieli, dłużników, banków, pracowników, czy organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne i mediacyjne. Sporządzamy pisma urzędowe, procesowe, wszelkiego rodzaju wnioski, odwołania, skargi, czy porozumienia.</p>
 
+<p>
+<a href="#contact" class="button">Kontakt</a>
+	</p>
+
 <hr class="major" />
 
 <div class="row">
