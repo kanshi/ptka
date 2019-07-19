@@ -57,10 +57,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Zapraszamy do współpracy</h2>
 		</header>
-		<p>Przestrzegamy najwyższych standardów etyki zawodowej i biznesowej. Naszym celem jest zapewnienie kompleksowej pomocy prawnej na najwyższym poziomie.</p>
-		<p>Wynagrodzenie ustalamy indywidualnie z Klientem w sposób jasny i przejrzysty, w zależności od wymaganego nakładu pracy i stopnia skomplikowania sprawy.</p>
+		<p>Przestrzegamy najwyższych standardów etyki zawodowej i biznesowej. Naszym celem jest zapewnienie kompleksowej pomocy prawnej na najwyższym poziomie. Wynagrodzenie ustalamy indywidualnie z Klientem w sposób jasny i przejrzysty, w zależności od wymaganego nakładu pracy i stopnia skomplikowania sprawy.</p>
 		<ul class="actions">
 			<li><a href="02_uslugi_adwokackie.html" class="button next">Usługi adwokackie</a></li>
 		</ul>
