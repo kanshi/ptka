@@ -37,18 +37,13 @@ nav-menu: true
 		<p>Od wielu lat reprezentujemy klientów przed sądami powszechnymi w sprawach alimentacyjnych, o rozwód, o władzę rodzicielską, regulację kontaktów i innych.</p>
 	</div>
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(medium)">
 		<h3>Prawo gospodarcze</h3>
 		<p>Posiadamy wieloletnie doświadczenie w obsłudze podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, oraz prawa kontraktów.</p>
 		<p>Oferujemy usługi analizy prawnej, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsługi działalności gospodarczej.</p>
 	</div>
-	<div class="4u 12u$(medium)">
+	<div class="6u$ 12u$(medium)">
 		<h3>Prawo karne</h3>
-		<p></p>
-		<p></p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Postępowania sądowe</h3>
 		<p></p>
 		<p></p>
 	</div>
