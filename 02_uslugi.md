@@ -23,9 +23,9 @@ nav-menu: true
 	
 <p>Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Zajmujemy się również sporządzaniem pism urzędowych, procesowych, wszelkiego rodzaju wniosków, odwołań, skarg, czy porozumień.</p>
 
-<p>Posiadamy również bogate doświadczenie w zakresie obsługi podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, prawa kontraktów, w szczególności w analizie, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsługi działalności gospodarczej.</p>
+<p>Posiadamy również bogate doświadczenie w zakresie obsługi podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, prawa kontraktów, w szczególności w analizie, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsłudze działalności gospodarczej.</p>
 
-<p>Negocjujemy oraz reprezentujemy Klienta w trakcie negocjacji, wobec wierzycieli, dłużników, banków, pracowników, organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne, mediacyjne.</p>
+<p>Negocjujemy oraz reprezentujemy Klienta w trakcie negocjacji, wobec wierzycieli, dłużników, banków, pracowników, czy organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne i mediacyjne.</p>
 
 
 <div class="row">
