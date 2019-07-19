@@ -33,8 +33,8 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Prawo rodzinne</h3>
-		<p>Nasi klienci cenią nas za szczerość i skuteczność w rozwiązywaniu najdelikatniejszych problemów prawnych.</p>
 		<p>Od wielu lat reprezentujemy klientów przed sądami powszechnymi w sprawach alimentacyjnych, o rozwód, o władzę rodzicielską, regulację kontaktów i innych.</p>
+		<p>Nasi klienci cenią nas za wyrozumiałość, szczerość i skuteczność w rozwiązywaniu najdelikatniejszych problemów prawnych.</p>
 	</div>
 	<!-- Break -->
 	<div class="6u 12u$(medium)">
