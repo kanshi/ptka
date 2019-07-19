@@ -28,23 +28,23 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Prawo cywilne</h3>
-		<p>Prawo cywilne jest głównym polem działania kancelarii. W trakcie długoletniej praktyki napotykaliśmy wiele unikalnych wyzwań prawnych z zakresu podziału majątku, działu spadku, zachowku, ochrony dóbr osobistych czy roszczenia o odszkodowanie lub zadośćuczynienie.</p>
+		<p>Prawo cywilne jest głównym polem działania kancelarii. W trakcie długoletniej praktyki napotykaliśmy wiele unikalnych wyzwań prawnych, w szczególności dotyczących podziału majątku, działu spadku, zachowku, ochrony dóbr osobistych czy roszczeń o odszkodowanie lub zadośćuczynienie.</p>
 		<p>Do złożonych spraw cywilnych podchodzimy z elastycznością i często wskazujemy klientom dodatkowe możliwości prawne.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Prawo rodzinne</h3>
 		<p>Od wielu lat reprezentujemy klientów przed sądami powszechnymi w sprawach alimentacyjnych, o rozwód, o władzę rodzicielską, regulację kontaktów i innych.</p>
-		<p>Nasi klienci cenią nas za wyrozumiałość, szczerość i skuteczność w rozwiązywaniu najdelikatniejszych problemów prawnych.</p>
+		<p>Nasi klienci cenią nas za wyrozumiałość, szczerość i skuteczność w rozwiązywaniu tych najdelikatniejszych problemów prawnych.</p>
 	</div>
 	<!-- Break -->
 	<div class="6u 12u$(medium)">
 		<h3>Prawo gospodarcze</h3>
 		<p>Posiadamy wieloletnie doświadczenie w obsłudze podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, oraz prawa kontraktów.</p>
-		<p>Oferujemy usługi analizy prawnej, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsługi działalności gospodarczej.</p>
+		<p>Oferujemy usługi analizy prawnej, sporządzaniu, weryfikacji i negocjacji umów, oraz bieżącej obsługi działalności gospodarczej.</p>
 	</div>
 	<div class="6u$ 12u$(medium)">
 		<h3>Prawo karne</h3>
-		<p></p>
-		<p></p>
+		<p>Reprezentujemy naszych klientów w postępowaniu karnym zarówno przed sądem, jak i w fazie postępowania przygotowawczego. W wielu przypadkach, pozwala to sprawne i pomyślne zakończenie postępowania.</p>
+		<p>Wierzymy w nadrzędną zasadę procesu karnego jaką jest domniemanie niewinności naszych klientów.</p>
 	</div>
 </div>
