@@ -28,7 +28,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Prawo cywilne</h3>
-		<p>Prawo cywilne jest głównym polem praktyki kancelarii. W trakcie długoletniej praktyki napotykaliśmy wiele unikalnych wyzwań prawnych z zakresu podziału majątku, działu spadku, zachowku, ochrony dóbr osobistych czy roszczenia o odszkodowanie lub zadośćuczynienie.</p>
+		<p>Prawo cywilne jest głównym polem działania kancelarii. W trakcie długoletniej praktyki napotykaliśmy wiele unikalnych wyzwań prawnych z zakresu podziału majątku, działu spadku, zachowku, ochrony dóbr osobistych czy roszczenia o odszkodowanie lub zadośćuczynienie.</p>
 		<p>Do złożonych spraw cywilnych podchodzimy z elastycznością i często wskazujemy klientom dodatkowe możliwości prawne.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
