@@ -19,11 +19,9 @@ nav-menu: true
 
 <!-- Content -->
 <p>
-<span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego. Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi.</p>
+<span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
 
-<p>Negocjujemy oraz reprezentujemy Klienta w trakcie negocjacji, wobec wierzycieli, dłużników, banków, pracowników, czy organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne i mediacyjne. Zajmujemy się również sporządzaniem pism urzędowych, procesowych, wszelkiego rodzaju wniosków, odwołań, skarg, czy porozumień.</p>
-
-<p>Posiadamy szerokie doświadczenie w zakresie obsługi podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, prawa kontraktów, w szczególności w analizie, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsłudze działalności gospodarczej.</p>
+<p>Negocjujemy oraz reprezentujemy Klienta wobec wierzycieli, dłużników, banków, pracowników, czy organów założycielskich. Prowadzimy również postępowania zabezpieczające, egzekucyjne, polubowne i mediacyjne. Sporządzamy pisma urzędowych, procesowych, wszelkiego rodzaju wnioski, odwołania, skargi, czy porozumienia.</p>
 
 <hr class="major" />
 
@@ -41,8 +39,8 @@ nav-menu: true
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Prawo gospodarcze</h3>
-		<p></p>
-		<p></p>
+		<p>Posiadamy wieloletnie doświadczenie w obsłudze podmiotów prowadzących działalność gospodarczą, w tym klientów korporacyjnych w zakresie prawa cywilnego, prawa gospodarczego, oraz prawa kontraktów.</p>
+		<p>Oferujemy usługi analizy prawnej, sporządzaniu, weryfikacji i negocjacji umów, czy bieżącej obsługi działalności gospodarczej.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Prawo karne</h3>
