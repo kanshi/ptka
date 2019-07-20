@@ -14,11 +14,6 @@ nav-menu: true
 <!-- One -->
 <section id="uslugi">
 	<div class="inner">
-		<header class="major">
-			<h1>Usługi</h1>
-		</header>
-
-<!-- Content -->
 <p>
 <span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>Zapewniamy reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
 
