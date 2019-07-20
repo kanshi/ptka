@@ -10,7 +10,30 @@
 
 <body>
 
-    {% include header.html %} {{ content }} {% include footer.html %}
+	{% include header.html %} 
+	
+	{% if page.lead %}
+	 <section id="banner" class="style2">
+            <div class="inner">
+                <span class="image">
+                    <img src="{{ site.baseurl }}/{{ page.lead }}" alt="">
+                </span>
+                <header class="major">
+
+                    <h1>{{ page.title }}</h1>
+
+                </header>
+                <div class="content">
+
+                    {{ page.description }}
+
+                </div>
+            </div>
+        </section>
+	{% endif %}
+	
+	{{ content }} 
+	{% include footer.html %}
 
 </body>
 
