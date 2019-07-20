@@ -4,7 +4,7 @@ title: Usługi
 subtitle: 'Kancelarie Adwokackie'
 description: 'Prawo rodzinne, cywilne, gospodarcze, karne, kontraktów ...'
 image: assets/images/docs_old.jpg
-lead: assets/images/docs_oksy.jpg
+lead: assets/images/meet_table.jpg
 nav-menu: true
 ---
 
