@@ -3,7 +3,7 @@ layout: page
 title: Usługi adwokackie
 description: 'Prawo rodzinne, cywilne, gospodarcze, karne, kontraktów ...'
 image: assets/images/docs_old.jpg
-lead: assets/images/note_service.jpg
+lead: assets/images/ellis_czubinski.jpg
 nav-menu: true
 ---
 
