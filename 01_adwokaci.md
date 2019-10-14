@@ -1,7 +1,7 @@
 ---
 title: 'adwokat Karolina Tuchołka'
 layout: landing
-image: assets/images/kawa_oksy.jpg
+image: assets/images/noty.jpg
 nav-menu: true
 ---
 
