@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 'Strona główna'
-subtitle: 'Kancelarie Adwokackie'
+subtitle: 'Kancelaria Adwokacka'
 landing-title: Kompleksowa pomoc prawna
 description: null
 image: null
@@ -9,6 +9,6 @@ author: null
 show_tile: false
 ---
 
-Specjalizujemy się w sprawach rodzinnych (postępowania rozwodowe, władza rodzicielska, alimenty, uregulowanie kontaktów). Doradzamy klientom indywidualnym, przedsiębiorcom, firmom, oraz instytucjom samorządowym i publicznym. 
+Specjalizuję się w sprawach rodzinnych (postępowania rozwodowe, władza rodzicielska, alimenty, uregulowanie kontaktów). Doradzam klientom indywidualnym, przedsiębiorcom, firmom, oraz instytucjom samorządowym i publicznym. 
 
-Oferujemy szeroko pojętą pomoc z zakresu prawa cywilnego, gospodarczego i karnego. Zapewniamy kompleksową pomoc psychologów, detektywów, oraz doradców podatkowych.
+Oferuję szeroko pojętą pomoc z zakresu prawa cywilnego, gospodarczego i karnego. Zapewniam kompleksową pomoc psychologów, detektywów, oraz doradców podatkowych.
