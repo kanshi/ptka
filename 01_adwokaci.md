@@ -1,8 +1,7 @@
 ---
-title: 'Adwokat'
+title: 'adwokat Karolina Tuchołka'
 layout: landing
-description: '<p>adwokat Karolina Tuchołka</p>'
-image: assets/images/karo_drzwi.jpg
+image: assets/images/kawa_oksy.jpg
 nav-menu: true
 ---
 
@@ -15,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Zaufaj doświadczeniu</h2>
 		</header>
-		<p>Zapewniam reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
+		<p>Zapewniam reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Od wielu lat skutecznie reprezentuję klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
 	</div>
 </section>
 
@@ -23,7 +22,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/mecenas_DV.png" alt="" data-position="top center" />
+			<img src="assets/images/karo_drzwi.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
