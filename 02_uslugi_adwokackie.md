@@ -2,8 +2,7 @@
 layout: page
 title: Usługi adwokackie
 description: 'Prawo rodzinne, cywilne, gospodarcze, karne, kontraktów ...'
-image: assets/images/docs_old.jpg
-lead: assets/images/ellis_czubinski.jpg
+image: assets/images/ellis_czubinski.jpg
 nav-menu: true
 ---
 
@@ -14,7 +13,7 @@ nav-menu: true
 <section id="uslugi">
 	<div class="inner">
 <p>
-<span class="image right"><img src="assets/images/docs_rs.jpg" alt="" /></span>Zapewniam reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
+<span class="image right"><img src="assets/images/noty.jpg" alt="" /></span>Zapewniam reprezentację oraz zastępstwo procesowe i prowadzenie wszelkich postępowań przed sądowymi powszechnymi. Od wielu lat skutecznie reprezentujemy naszych klientów w sprawach z zakresu prawa rodzinnego, cywilnego, gospodarczego i karnego.</p>
 
 <p>Negocjuję oraz reprezentuję Klienta wobec wierzycieli, dłużników, banków, pracowników, czy organów założycielskich. Prowadzę również postępowania zabezpieczające, egzekucyjne, polubowne i mediacyjne. Sporządzam pisma urzędowe, procesowe, wszelkiego rodzaju wnioski, odwołania, skargi, czy porozumienia.</p>
 <ul class="actions">
