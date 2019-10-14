@@ -1,22 +1,16 @@
 ---
 layout: post
 title: 'Nota prawna'
-subtitle: 'Kancelarie Adwokackie'
 description: 'Ważne informacje prawne'
 image: assets/images/sejfik.jpg
 showimage: false
 nav-menu: true
 ---
 
-<span class="image right"><img src="assets/images/akta.jpg" alt="" /></span>Administrator dokłada wszelkich starań, by materiał zawarty w serwisie był aktualny i kompletny, jednak może on zawierać błędy i niedokładności.
+<span class="image right"><img src="assets/images/akta.jpg" alt="" /></span>Dokładamy wszelkich starań, by materiał zawarty w serwisie był aktualny i kompletny, jednak może on zawierać błędy i niedokładności.
 
-Informacje przedstawione na stronie internetowej nie są źródłem porad prawnych ani nie stanowią reklamy prowadzonej przez kancelarie działalności. Ta strona www ma charakter wyłącznie informacyjny, bez żadnych gwarancji, wyrażonych jednoznacznie bądź implikowanych. 
+Informacje przedstawione na stronie internetowej nie są źródłem porad prawnych ani nie stanowią reklamy prowadzonej przez kancelarię działalności. 
+Ta strona www ma charakter wyłącznie informacyjny, bez żadnych gwarancji, wyrażonych jednoznacznie bądź implikowanych. 
 
 <span class="image left"><img src="assets/images/karo_oksy.jpg" alt="" /></span>
-Prezentowane na tej stronie informacje mogą być wykorzystane tylko zgodnie z ich przeznaczeniem; zabrania się ich nieuprawnionego kopiowania, przetwarzania oraz rozpowszechniania.
-
-Administrator nie bierze odpowiedzialności za bezpośrednie i pośrednie straty wynikające z korzystania z serwisu, a także nie odpowiada za jakiekolwiek uszkodzenia lub wirusy, które mogą zainfekować Twój sprzęt podczas korzystania z serwisu. W szczególności w związku z pobieraniem z niego jakichkolwiek plików, zdjęć, filmów i innych materiałów.
-
-Administrator zastrzega możliwość modyfikacji tej strony w dowolnym momencie, bez konieczności powiadomienia o tym fakcie użytkowników. Zmiany te są wiążące dla użytkowników w momencie ich opublikowania.
-
-Administrator: adwokat Marcin Potok
+Prezentowane na tej stronie informacje mogą być wykorzystane jedynie zgodnie z ich przeznaczeniem; zabrania się ich nieuprawnionego kopiowania, przetwarzania oraz rozpowszechniania.
